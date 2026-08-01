@@ -1,4 +1,5 @@
-// Lecture 1
+## Lecture 1
+
 # a = 10
 # print(a)
 # b = 20
@@ -16,3 +17,6 @@
 print("Enter a number:")
 n = int(input())
 print(n)
+
+
+print("Enter a number:")
