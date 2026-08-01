@@ -6,4 +6,3 @@ print("Hello India",20 ,20.5)
 
 print() # Only Round bracket is used not curly bracket or square bracket
 
-print()

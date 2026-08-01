@@ -20,3 +20,5 @@ print(n)
 
 
 print("Enter a number:")
+
+print()
