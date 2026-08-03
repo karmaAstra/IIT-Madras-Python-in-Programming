@@ -1,4 +1,4 @@
-#Arthmatic Operations are:
+# Arithmetic Operations are:
 # + , - , * , / , // , % , **
 
 a = 2
