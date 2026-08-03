@@ -13,4 +13,3 @@ print("So the family has:", final_value)
 
 # Tips: Add variables self-explanatory names.
 # Tips: Use comments to explain the code.
-# changes
