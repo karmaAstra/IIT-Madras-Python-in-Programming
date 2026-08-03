@@ -31,3 +31,11 @@ count += 1 # This is the short hand operator for count = count + 1
 count -= 1 # This is the short hand operator for count = count - 1
 count *= 2 # This is the short hand operator for count = count * 2
 count /= 2 # This is the short hand operator for count = count / 2
+
+print("d" in "dinesh") # True because 'd' is their inside 'dinesh'
+
+print('Dinesh' in "is Dinesh genius?") # True because 'Dinesh' is their inside 'is Dinesh genius?'
+
+# Chaining operators 
+print(34 < 344 < 566)
+print(23 < 3 < 34)
