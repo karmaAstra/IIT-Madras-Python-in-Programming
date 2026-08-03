@@ -17,3 +17,17 @@ print(y) # 3
 
 x = y = z = 10
 print(x,y,z) # All are 10
+
+del x # Deleting the variable x from memory
+# print(x) # This will give an error since x is deleted
+
+
+#Short hand operators
+count = 0
+count = count + 1 
+print(count)
+
+count += 1 # This is the short hand operator for count = count + 1
+count -= 1 # This is the short hand operator for count = count - 1
+count *= 2 # This is the short hand operator for count = count * 2
+count /= 2 # This is the short hand operator for count = count / 2
