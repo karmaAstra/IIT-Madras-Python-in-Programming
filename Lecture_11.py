@@ -13,6 +13,12 @@ print("abcde" > "abcdg") #False --> Comparison is done based on the first charac
 
 
 # Negative indexing in strings:
-s = "Good"
-print(s[-1]) #d
+s = "python"
+print(s[-1]) #n
 print(s[-2]) #o
+print(s[-3]) #h
+print(s[-4]) #t
+print(s[-5]) #y
+print(s[-6]) #p
+print(len(s)) #6 --> Counting starts from 1, so the length of the string is 6. 
+print(s[1:4]) #yth --> Slicing starts from 0, so the last index of the string is 5.
