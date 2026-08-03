@@ -20,3 +20,14 @@ print("Less than or equal to:", a <= b) # True
 print("Greater than or equal to:", a >= b) # False
 print("Equal to:", a == b) # False
 print("Not equal to:", a != b) # True
+
+
+
+#Logical Operators are:
+# and , or , not
+print(True and True) # True
+print(True and False) # False
+print(False or True) # True
+print(False or False) # False
+print(not True) # False
+print(not False) # True
