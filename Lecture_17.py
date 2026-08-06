@@ -1,8 +1,6 @@
 # Original String
 s = "this is The String"
 
-
-
 print("Original String :", s)
 
 print("-" * 50)
@@ -44,4 +42,4 @@ print("-" * 50)
 # Replacing Characters
 print("Replace 't'->'1':", s.replace("t", "1"))  # Replaces all 't' with '1'
 
-print("Days of coding")
+print("-" * 50)
