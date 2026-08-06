@@ -43,3 +43,5 @@ print("-" * 50)
 
 # Replacing Characters
 print("Replace 't'->'1':", s.replace("t", "1"))  # Replaces all 't' with '1'
+
+print("Days of coding")
