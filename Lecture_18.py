@@ -1,10 +1,9 @@
-print("Enter")
+# Escape Characters
 
-print("New keyarod here")
+# print('it's beautiful day') --> will generate an error as ' is used and computer can't differentiate 
 
-print("second thing here")
-print("Third thing here")
+# Escape characters are the special methods used to use spacial things
 
-print("Third thing here")
+print('it\'s a beautiful day') # \' --> used a single character as '
 
-# This lecture is not finished i had just completed to push it and get the score
+print("We are from \"IIT Madras\"")
