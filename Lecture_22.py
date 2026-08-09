@@ -15,4 +15,4 @@ if(num % 5 == 0):
 else:
     print("Other")
     
-# Lecture Not Completed.
+# Lecture Not Completed..
