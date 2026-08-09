@@ -14,3 +14,5 @@ if(num % 5 == 0):
         print('5')
 else:
     print("Other")
+    
+# Lecture Not Completed.
